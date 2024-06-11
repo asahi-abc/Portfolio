@@ -53,6 +53,20 @@ h1 {
     color: #333;
 }
 
+#title1 {
+    font-size : 4em;
+    /* 色を変える */
+    color: #333;
+}
+#title2 {
+    font-size : 4em;
+    /* 色を#333より薄くする */
+    color: #888; 
+
+    /* 周りに空白を設ける */
+    padding-right: 0.5em;
+}
+
 .about-section ,.contact-section{
     padding: 2em;
     margin-top: 60px;
